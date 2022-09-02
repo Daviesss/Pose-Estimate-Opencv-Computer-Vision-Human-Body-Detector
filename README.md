@@ -27,6 +27,10 @@ WHY DOES POSE ESTIMATE REALLY MATTER ?
  
  
  We need Two main libaries for writting a Pose estimation code in python:
+
+https://user-images.githubusercontent.com/97457075/188120533-ee8e79a7-c4c8-43a5-b244-daa89188e209.mp4
+
+
  1.Opencv
  2.Cvzone 
  
@@ -34,3 +38,7 @@ WHY DOES POSE ESTIMATE REALLY MATTER ?
  command below:
    1. pip install opencv-python
    2. pip install cvzone
+
+https://user-images.githubusercontent.com/97457075/188120605-64d13203-c435-4478-afeb-8feef2b9edd9.mp4
+
+
